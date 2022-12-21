@@ -1,0 +1,108 @@
+module Tsarcraft
+{
+	imports
+	{
+		Base
+	}
+/********************Generated Music Carriers********************/
+
+	item CassetteMaruadaEDC
+	{
+		Type			=	Normal,
+		Weight			=	0,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Marauda - EDC Las Vegas,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteMaraudaCast
+	{
+		Type			=	Normal,
+		Weight			=	0,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Marauda - Cast,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteMaraudaHusk
+	{
+		Type			=	Normal,
+		Weight			=	0,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Marauda - Husk,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteMaraudaAvoidableCause
+	{
+		Type			=	Normal,
+		Weight			=	0,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Marauda - Avoidable Cause,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteMaraudaKilter
+	{
+		Type			=	Normal,
+		Weight			=	0,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Marauda - Kilter,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteMaraudaSwathe
+	{
+		Type			=	Normal,
+		Weight			=	0,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Marauda - Swathe,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteMaraudaTenebrous
+	{
+		Type			=	Normal,
+		Weight			=	0,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Marauda - Tenebrous,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteMaraudaThatSong
+	{
+		Type			=	Normal,
+		Weight			=	0,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Marauda - That Marauda Song,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteMaraudaReckoning
+	{
+		Type			=	Normal,
+		Weight			=	0,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Marauda - The Reckoning,
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteMaraudaTrash
+	{
+		Type			=	Normal,
+		Weight			=	0,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Marauda - Trash,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteMaraudaUmbra
+	{
+		Type			=	Normal,
+		Weight			=	0,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Marauda - Umbra,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+}

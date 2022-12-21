@@ -1,0 +1,123 @@
+module Tsarcraft
+{
+	sound CassetteMaruadaEDC
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/MARAUDA-EDC-LAS-VEGAS-2021.ogg,
+			distanceMax = 150,
+		}
+	}
+
+	sound CassetteMaraudaCast
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/CAST.ogg,
+			distanceMax = 150,
+		}
+	}
+
+	sound CassetteMaraudaHusk
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/HUSK.ogg,
+			distanceMax = 150,
+		}
+	}
+
+	sound CassetteMaraudaAvoidableCause
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/AVOIDABLE-CAUSE.ogg,
+			distanceMax = 150,
+		}
+	}
+
+	sound CassetteMaraudaKilter
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/KILTER.ogg,
+			distanceMax = 150,
+		}
+	}
+
+	sound CassetteMaraudaSwathe
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/SWATHE.ogg,
+			distanceMax = 150,
+		}
+	}
+
+	sound CassetteMaraudaTenebrous
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/TENEBROUS.ogg,
+			distanceMax = 150,
+		}
+	}
+
+	sound CassetteMaraudaThatSong
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/THAT-MARAUDA-SONG.ogg,
+			distanceMax = 150,
+		}
+	}
+
+	sound CassetteMaraudaReckoning
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/THE-RECKONING.ogg,
+			distanceMax = 150,
+		}
+	}
+
+	sound CassetteMaraudaTrash
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/TRASH.ogg,
+			distanceMax = 150,
+		}
+	}
+
+	sound CassetteMaraudaUmbra
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/UMBRA.ogg,
+			distanceMax = 150,
+		}
+	}
+}
