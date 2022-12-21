@@ -1,5 +1,8 @@
 ## Marauda-Music-Pack
 
+**Note :** requires [True Music [41.73]](https://catalogue.smods.ru/archives/86399)
+
+
 This mod features the most recent albums in Marauda, includes:
 
 - Cast
